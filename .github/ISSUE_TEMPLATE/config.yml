@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/myfield-one/myfield/security/advisories/new
+    about: Report security issues privately. Do not open a public issue.
+  - name: SDK issues
+    url: https://github.com/myfield-one/sdk/issues
+    about: Bugs and API questions for @myfield/sdk.
+  - name: mfid issues
+    url: https://github.com/myfield-one/mfid/issues
+    about: Questions about the did:mfid specification or library.
