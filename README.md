@@ -4,7 +4,7 @@
 
 This repository is the public home of the MyField project: an overview,
 an index of related repositories, and the place for issues and discussions.
-It does not contain the MyField platform source code.
+See [Open Source](#open-source) for our approach and what is open today.
 
 Website: [myfield.one](https://myfield.one)
 
@@ -19,6 +19,19 @@ All repositories are licensed under Apache-2.0.
 
 The SDK and mfid are in 1.0 preview. Their APIs may still change slightly
 before 1.0 based on feedback.
+
+## Open Source
+
+MyField's long-term direction is open source with support for self-hosting. The
+project is still in an early, evolving stage, so we are opening it step by step.
+
+Open today: the core identity protocol `did:mfid`, the client-side
+`@myfield/sdk` with an example app, and one product, Card Field.
+
+Keychain management currently runs in your browser and is not yet open source;
+we plan to open its implementation together with a self-hosting option as the
+project matures. Each step will be taken responsibly, guided by user feedback,
+outside contributions, and what the team can maintain.
 
 ## Products
 
