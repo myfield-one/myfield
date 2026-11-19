@@ -28,9 +28,9 @@ project is still in an early, evolving stage, so we are opening it step by step.
 Open today: the core identity protocol `did:mfid`, the client-side
 `@myfield/sdk` with an example app, and one product, Card Field.
 
-Keychain management currently runs in your browser and is not yet open source;
-we plan to open its implementation together with a self-hosting option as the
-project matures. Each step will be taken responsibly, guided by user feedback,
+Keychain, which manages your keys and app authorizations, is not yet open
+source; we plan to open its implementation together with a self-hosting option
+as the project matures. Each step will be taken responsibly, guided by user feedback,
 outside contributions, and what the team can maintain.
 
 ## Products
